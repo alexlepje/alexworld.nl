@@ -1,6 +1,7 @@
 ---
-layout: post
 title: The Eternal Lorem Ipsum Placeholder Text Here
+date: 2016-03-08 00:00:00 Z
+layout: post
 author: Author Name
 ---
 

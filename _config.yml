@@ -1,6 +1,6 @@
 ---
 title: Alex de Groot
-timezone: UTC
+timezone: Europe/Amsterdam
 collections:
   posts:
     title: Posts
@@ -8,26 +8,26 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Your Username
-description: Programmer From Somewhere On Earth
+name: 'Alex de Groot '
+description: Programmer From Harderwijk On Earth
 footer-links:
   dribbble: 
-  email: agarwal.akshay.akshay8@gmail.com
+  email: Alex@alexdegroot.net
   facebook: 
   flickr: 
-  github: AkshayAgarwal007
-  instagram: 
-  linkedin: akshay-agarwal-782018a4
+  github: Alexlepje
+  instagram: Alexlepje
+  linkedin: Alex. Degroot88
   pinterest: 
   rss: 
-  twitter: 
+  twitter: Alexdegroot11
   stackoverflow: 
   youtube: 
   googleplus: 
 disqus: 
 google_analytics: 
 url: 
-baseurl: ''
+baseurl: 
 permalink: "/:title/"
 kramdown:
   input: GFM
@@ -35,7 +35,7 @@ kramdown:
   syntax_highlighter_opts:
     css_class: highlight
 sass:
-  style: :expanded
+  style: expanded
 gems:
 - jekyll-sitemap
 - jekyll-feed

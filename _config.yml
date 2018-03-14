@@ -25,7 +25,7 @@ footer-links:
   youtube: 
   googleplus: 
 disqus: 
-google_analytics: 
+google_analytics: UA-18761704-3
 url: 
 baseurl: 
 permalink: "/:title/"

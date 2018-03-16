@@ -1,6 +1,7 @@
 ---
 title: 'Data Platform: The Power in Your Data'
 date: 2018-03-16 23:06:00 +01:00
+author: Abhinav Sethi
 ---
 
 Data, a word when read, seems simple, but in an organization or business, it means a lot. Data has the power to change the whole perspective of your organization; it can make or break the game. It's a realm of multiple possibilities. Whether the data is, on-premise, edge, or on cloud, it has the capacity to bring new opportunities forward and give detailed insights for your business.

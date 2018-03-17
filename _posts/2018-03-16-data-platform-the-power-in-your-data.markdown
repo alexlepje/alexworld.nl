@@ -1,6 +1,7 @@
 ---
 title: 'Data Platform: The Power in Your Data'
 date: 2018-03-16 23:06:00 +01:00
+published: false
 author: Abhinav Sethi
 ---
 

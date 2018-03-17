@@ -1,18 +1,32 @@
 ---
 layout: default
 ---
+<section class="articles">
+<div class="column is-8 is-offset-2">
+  <!-- START ARTICLE -->
+    {% for post in site.posts %}
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
+  <div class="card article">
+    <div class="card-content">
+      <div class="media">
+        <div class="media-center">
+          <img src="https://secure.gravatar.com/avatar/de61b08924a131ffe892ca07797bc5b0?s=64" class="author-image" alt="Placeholder image">
+        </div>
+        <div class="media-content has-text-centered">
+          <p class="title article-title">{{ post.title }}</p>
+          <p class="subtitle is-6 article-subtitle">
+            <a href="#">@{{ post.author}}</a> on {{post.date}}
+          </p>
+        </div>
       </div>
+      <div class="content article-body">
+        {{ post.excerpt }}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="button button-primary">Read More</a>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="button button-primary">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+      </div>
+    </div>
+  </div>
+  <!-- END ARTICLE -->
+    {% endfor %}
+
+</section>

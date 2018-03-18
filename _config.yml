@@ -12,7 +12,7 @@ name: 'Alex de Groot '
 description: Programmer From Harderwijk On Earth
 footer-links:
   dribbble: 
-  email: Alex@alexdegroot.net
+  email: alex@alexdegroot.net
   facebook: 
   flickr: 
   github: Alexlepje
@@ -24,7 +24,7 @@ footer-links:
   stackoverflow: 
   youtube: 
   googleplus: 
-disqus: 
+disqus: true
 google_analytics: UA-18761704-3
 url: 
 baseurl: 

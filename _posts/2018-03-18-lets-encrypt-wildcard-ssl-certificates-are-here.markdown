@@ -6,6 +6,6 @@ author: Alex de Groot
 
 Let’s Encrypt announced this week that Wildcard certificates are available through their new ACME2 (Automated Certificate Management Environment) protocol! We wrote about the free wildcard announcement last year, and it’s great to see this feature released.
 
-[You can use numbers for reference-style link definitions][1]
+[Laravel-news.com][1]
 
 [1]: https://laravel-news.com/lets-encrypt-wildcard-ssl-certificates-are-here

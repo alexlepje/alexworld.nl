@@ -28,15 +28,11 @@ disqus:
 google_analytics: UA-18761704-3
 url: 
 baseurl: 
+markdown: redcarpet
 permalink: "/:title/"
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: highlight
 sass:
   style: expanded
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-feed
 exclude:

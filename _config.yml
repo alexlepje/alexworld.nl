@@ -28,7 +28,7 @@ disqus: alexdegroot-net
 google_analytics: UA-18761704-3
 url: 
 baseurl: 
-markdown: redcarpet
+markdown: kramdown
 permalink: "/:title/"
 sass:
   style: expanded

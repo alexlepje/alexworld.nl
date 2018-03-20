@@ -32,9 +32,6 @@ markdown: redcarpet
 permalink: "/:title/"
 sass:
   style: expanded
-plugins:
-- jekyll-sitemap
-- jekyll-feed
 exclude:
 - Gemfile
 - Gemfile.lock

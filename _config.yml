@@ -1,0 +1,46 @@
+---
+title: Alex de Groot
+timezone: Europe/Amsterdam
+collections:
+  mylife:
+    title: MyLife
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: 'Alex de Groot '
+description: Programmer From Harderwijk On Earth
+footer-links:
+  dribbble: 
+  email: alex@alexdegroot.net
+  facebook: 
+  flickr: 
+  github: Alexlepje
+  instagram: Lepjepr
+  linkedin: Alexdegroot88
+  pinterest: 
+  rss: 
+  twitter: Alexdegroot11
+  stackoverflow: 
+  youtube: 
+  googleplus: 
+disqus: alexdegroot-net
+google_analytics: UA-18761704-3
+url: 
+baseurl: 
+markdown: kramdown
+permalink: "/:title/"
+sass:
+  style: expanded
+plugins:
+- jekyll-sitemap
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- CNAME

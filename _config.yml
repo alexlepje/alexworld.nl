@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 name: 'Alex de Groot '
-description: Programmer From Harderwijk On Earth
+description: From Harderwijk in the Netherlands
 footer-links:
   dribbble: 
   email: alex@alexdegroot.net
@@ -25,7 +25,9 @@ footer-links:
   youtube: 
   googleplus: 
 disqus: alexdegroot-net
-google_analytics: UA-18761704-3
+google_analytics: 'UA-18761704-6
+
+'
 url: 
 baseurl: 
 markdown: kramdown

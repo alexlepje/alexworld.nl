@@ -2,9 +2,6 @@
 title: Alex de Groot
 timezone: Europe/Amsterdam
 collections:
-  mylife:
-    title: MyLife
-    output: true
   posts:
     title: Posts
     output: true
@@ -35,9 +32,6 @@ markdown: kramdown
 permalink: "/:title/"
 sass:
   style: expanded
-plugins:
-- jekyll-sitemap
-- jekyll-feed
 exclude:
 - Gemfile
 - Gemfile.lock
